@@ -1,0 +1,9 @@
+{
+  "name": "QA Tester",
+  "email": "hello@cypress.io",
+  "subject": "Suport",
+  "message": "This is a message sent from a fixture file",
+  "body": "Fixtures are a great way to mock data for responses to routes",
+  "user": "qa-tester-1761708608284@test.com",
+  "password": "12345"
+}
