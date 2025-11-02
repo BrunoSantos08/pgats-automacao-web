@@ -10,7 +10,11 @@ module.exports = defineConfig({
     charts: true,
     reportPageTitle: 'Relatório',
     embeddedScreenshots: true,
-    inlineAssets: true
+    inlineAssets: true,
+    retries: {
+    openMode: 0,
+    runMode: 2
+  },
   },
   e2e: {
     setupNodeEvents(on, config) {
